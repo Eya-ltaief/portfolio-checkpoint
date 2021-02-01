@@ -1,0 +1,43 @@
+body{
+background-color: #343a40;
+}
+#content{
+margin-top: 6%;
+}
+img{
+    height: 50%;
+    margin-top: 20%;
+    margin-left: -20%;
+}
+.FirstName {
+    margin-top: 55%;
+}
+h3{
+    color: cyan;
+    letter-spacing: 0.1em;
+}
+hr{
+    border: 2px solid white;
+    width: 20%;
+    float: left;   
+}
+.FirstName h3{
+    color: gainsboro;
+    letter-spacing: 0.2em;
+}
+.introduction{
+    margin-top: 55%;
+    margin-left: 25%;
+}
+.introduction h5{
+    color: gainsboro;
+    letter-spacing: 0.1em;
+    text-align: left;
+    justify-content: left;
+}.FirstName h6{
+    font-size: 20px;
+    padding: 1%;
+}
+.button{
+    width: 10rem;
+}

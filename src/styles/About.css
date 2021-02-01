@@ -1,0 +1,29 @@
+#about{
+    margin-top: -20%;
+}
+.card{
+    background-color: gray;
+    width: 15rem;
+    height: 15rem;
+}
+.toppart{
+    width: 5rem;
+    height: 5rem;
+    margin-left: 33%;
+}
+h5{
+    color: white;
+    letter-spacing: 0.1em;
+    text-align: center;
+}
+#about h2{
+    text-align: center;
+    color: white;
+    margin-bottom: 10%;
+    margin-top: -15%;
+}
+.card:hover{
+    cursor: pointer;
+    transform: scale(1.2,1.2);
+    transition: transform .3s ease;
+}
