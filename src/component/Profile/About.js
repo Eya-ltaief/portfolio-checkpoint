@@ -4,7 +4,7 @@ const About=()=> {
     return ( 
     <Container  id="about">
         <h2>About <span style={{color:"cyan"}}>Me</span></h2>
-        <Row className="justify-content-md-center">
+        <Row className="d-flex justify-content-md-center">
             <Col >
             <Card className="card" >
                 <Card.Img variant="top" src="/images/teacher.png" className="toppart"/>
